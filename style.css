@@ -1,3 +1,31 @@
 img {
-    max-width: 80%;
+width: 300px;
+}
+h2{
+    color: red;
+}
+#header{
+    background-color:rgb(146, 146, 255) ;
+}
+
+#about{
+    background-color: rgb(199, 142, 253);
+}
+
+
+#achievements{
+    background-color: #f5ee8b;
+
+}
+
+#other{
+background-color: rgb(255, 131, 156);
+}
+#feature{
+    background-color: #457b9d;
+    color: #f1faee;
+    margin-bottom: 20px;
+}
+body{
+    margin: 30px;
 }
